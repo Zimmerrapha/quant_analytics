@@ -1,0 +1,15 @@
+[project]
+name = "quant-analytics"
+version = "0.1.0"
+description = "Quant Analytics Learning Lab — Market Making & S&T"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "plotly>=6.5.2",
+    "polars>=1.38.1",
+    "scipy>=1.17.0",
+    "yfinance>=1.2.0",
+]
